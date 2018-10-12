@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/Desktop/dni-tygodnia/dni_tygodnia.c
+stdbool.h
+-
+stdio.h
+/home/student/Desktop/dni-tygodnia/stdio.h
+

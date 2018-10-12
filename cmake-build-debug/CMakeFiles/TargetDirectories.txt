@@ -1,0 +1,3 @@
+/home/student/Desktop/dni-tygodnia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/student/Desktop/dni-tygodnia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/student/Desktop/dni-tygodnia/cmake-build-debug/CMakeFiles/dni_tygodnia.dir

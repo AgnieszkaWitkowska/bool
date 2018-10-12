@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/dni_tygodnia.dir/dni_tygodnia.c.o  -o dni_tygodnia 
